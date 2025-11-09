@@ -67,3 +67,4 @@ streamlit run app.py
 ## Dataset
 
 The project uses the **New Plant Diseases Dataset (Augmented)** version of PlantVillage, which contains 38 classes across healthy and diseased categories. Images are high-quality and lab-captured, making the model highly accurate in structured environments.
+Dataset link - "https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset"
